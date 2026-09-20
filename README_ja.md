@@ -8,7 +8,7 @@
 
 <p align="center"><strong>実践を中心に段階的に学べる、無料の実用的な学習パスです。</strong></p>
 
-<p align="center"><img alt="コース: 9" src="https://img.shields.io/badge/%E3%82%B3%E3%83%BC%E3%82%B9-9-2563eb?style=flat-square"> <img alt="プロジェクト: 0" src="https://img.shields.io/badge/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-0-7c3aed?style=flat-square"> <img alt="スキル: 52" src="https://img.shields.io/badge/%E3%82%B9%E3%82%AD%E3%83%AB-52-0891b2?style=flat-square"></p>
+<p align="center"><img alt="コース: 12" src="https://img.shields.io/badge/%E3%82%B3%E3%83%BC%E3%82%B9-12-2563eb?style=flat-square"> <img alt="プロジェクト: 0" src="https://img.shields.io/badge/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-0-7c3aed?style=flat-square"> <img alt="スキル: 52" src="https://img.shields.io/badge/%E3%82%B9%E3%82%AD%E3%83%AB-52-0891b2?style=flat-square"></p>
 
 <p align="center"><a href="https://labex.io/ja/learn/cloudflare"><img src="https://img.shields.io/badge/%E5%AD%A6%E7%BF%92%E3%82%92%E5%A7%8B%E3%82%81%E3%82%8B-%E7%84%A1%E6%96%99-16a34a?style=for-the-badge" alt="学習を始める"></a></p>
 
@@ -101,7 +101,29 @@ Cloudflare Workers から始め、段階的な実習ラボを通じて KV、D1�
   Cloudflare AI Gateway で Workers AI のトラフィックを経路制御しながら、認可境界、ログ、キャッシュ、トラフィック制御、範囲を限定したモデルフォールバックを学びます。<br><br>
   <a href="https://labex.io/ja/courses/cloudflare-ai-gateway-for-beginners"><strong>コースを始める →</strong></a>
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ja/courses/cloudflare-durable-objects-for-beginners"><img src="https://course-cover.labex.io/cloudflare-durable-objects-for-beginners.png" alt="Cloudflare Durable Objects for Beginners" width="100%"></a><br><br>
+  <strong>10. <a href="https://labex.io/ja/courses/cloudflare-durable-objects-for-beginners">Cloudflare Durable Objects for Beginners</a></strong><br>
+  <sub>初級 · 0 件の実践ラボ</sub><br><br>
+  <br><br>
+  <a href="https://labex.io/ja/courses/cloudflare-durable-objects-for-beginners"><strong>コースを始める →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ja/courses/cloudflare-agents-sdk-for-beginners"><img src="https://course-cover.labex.io/cloudflare-agents-sdk-for-beginners.png" alt="Cloudflare Agents SDK for Beginners" width="100%"></a><br><br>
+  <strong>11. <a href="https://labex.io/ja/courses/cloudflare-agents-sdk-for-beginners">Cloudflare Agents SDK for Beginners</a></strong><br>
+  <sub>初級 · 0 件の実践ラボ</sub><br><br>
+  <br><br>
+  <a href="https://labex.io/ja/courses/cloudflare-agents-sdk-for-beginners"><strong>コースを始める →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ja/courses/project-build-a-rag-ai-agent-with-cloudflare"><img src="https://course-cover.labex.io/project-build-a-rag-ai-agent-with-cloudflare.png" alt="Build a RAG AI Agent with Cloudflare" width="100%"></a><br><br>
+  <strong>12. <a href="https://labex.io/ja/courses/project-build-a-rag-ai-agent-with-cloudflare">Build a RAG AI Agent with Cloudflare</a></strong><br>
+  <sub>初級 · 0 件の実践ラボ</sub><br><br>
+  <br><br>
+  <a href="https://labex.io/ja/courses/project-build-a-rag-ai-agent-with-cloudflare"><strong>コースを始める →</strong></a>
+</td>
 </tr>
 </table>
 

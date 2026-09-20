@@ -8,7 +8,7 @@
 
 <p align="center"><strong>실제 실습을 중심으로 단계별로 배우는 무료 실전 학습 경로입니다.</strong></p>
 
-<p align="center"><img alt="강좌: 9" src="https://img.shields.io/badge/%EA%B0%95%EC%A2%8C-9-2563eb?style=flat-square"> <img alt="프로젝트: 0" src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-0-7c3aed?style=flat-square"> <img alt="기술: 52" src="https://img.shields.io/badge/%EA%B8%B0%EC%88%A0-52-0891b2?style=flat-square"></p>
+<p align="center"><img alt="강좌: 12" src="https://img.shields.io/badge/%EA%B0%95%EC%A2%8C-12-2563eb?style=flat-square"> <img alt="프로젝트: 0" src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-0-7c3aed?style=flat-square"> <img alt="기술: 52" src="https://img.shields.io/badge/%EA%B8%B0%EC%88%A0-52-0891b2?style=flat-square"></p>
 
 <p align="center"><a href="https://labex.io/ko/learn/cloudflare"><img src="https://img.shields.io/badge/%ED%95%99%EC%8A%B5%20%EC%8B%9C%EC%9E%91-%EB%AC%B4%EB%A3%8C-16a34a?style=for-the-badge" alt="학습 시작"></a></p>
 
@@ -101,7 +101,29 @@ Cloudflare Workers에서 시작해 단계별 실습으로 KV, D1, R2, Workers AI
   Cloudflare AI Gateway 로 Workers AI 트래픽을 라우팅하고 제어하며 권한 경계, 로그, 캐싱, 트래픽 제어와 제한된 모델 폴백을 학습합니다.<br><br>
   <a href="https://labex.io/ko/courses/cloudflare-ai-gateway-for-beginners"><strong>강좌 시작 →</strong></a>
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ko/courses/cloudflare-durable-objects-for-beginners"><img src="https://course-cover.labex.io/cloudflare-durable-objects-for-beginners.png" alt="Cloudflare Durable Objects for Beginners" width="100%"></a><br><br>
+  <strong>10. <a href="https://labex.io/ko/courses/cloudflare-durable-objects-for-beginners">Cloudflare Durable Objects for Beginners</a></strong><br>
+  <sub>초급 · 실습 랩 0개</sub><br><br>
+  <br><br>
+  <a href="https://labex.io/ko/courses/cloudflare-durable-objects-for-beginners"><strong>강좌 시작 →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ko/courses/cloudflare-agents-sdk-for-beginners"><img src="https://course-cover.labex.io/cloudflare-agents-sdk-for-beginners.png" alt="Cloudflare Agents SDK for Beginners" width="100%"></a><br><br>
+  <strong>11. <a href="https://labex.io/ko/courses/cloudflare-agents-sdk-for-beginners">Cloudflare Agents SDK for Beginners</a></strong><br>
+  <sub>초급 · 실습 랩 0개</sub><br><br>
+  <br><br>
+  <a href="https://labex.io/ko/courses/cloudflare-agents-sdk-for-beginners"><strong>강좌 시작 →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ko/courses/project-build-a-rag-ai-agent-with-cloudflare"><img src="https://course-cover.labex.io/project-build-a-rag-ai-agent-with-cloudflare.png" alt="Build a RAG AI Agent with Cloudflare" width="100%"></a><br><br>
+  <strong>12. <a href="https://labex.io/ko/courses/project-build-a-rag-ai-agent-with-cloudflare">Build a RAG AI Agent with Cloudflare</a></strong><br>
+  <sub>초급 · 실습 랩 0개</sub><br><br>
+  <br><br>
+  <a href="https://labex.io/ko/courses/project-build-a-rag-ai-agent-with-cloudflare"><strong>강좌 시작 →</strong></a>
+</td>
 </tr>
 </table>
 

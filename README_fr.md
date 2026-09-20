@@ -8,7 +8,7 @@
 
 <p align="center"><strong>Un parcours d’apprentissage gratuit, pratique et progressif, fondé sur la mise en pratique.</strong></p>
 
-<p align="center"><img alt="Cours: 9" src="https://img.shields.io/badge/Cours-9-2563eb?style=flat-square"> <img alt="Projets: 0" src="https://img.shields.io/badge/Projets-0-7c3aed?style=flat-square"> <img alt="Compétences: 52" src="https://img.shields.io/badge/Comp%C3%A9tences-52-0891b2?style=flat-square"></p>
+<p align="center"><img alt="Cours: 12" src="https://img.shields.io/badge/Cours-12-2563eb?style=flat-square"> <img alt="Projets: 0" src="https://img.shields.io/badge/Projets-0-7c3aed?style=flat-square"> <img alt="Compétences: 52" src="https://img.shields.io/badge/Comp%C3%A9tences-52-0891b2?style=flat-square"></p>
 
 <p align="center"><a href="https://labex.io/fr/learn/cloudflare"><img src="https://img.shields.io/badge/Commencer%20%C3%A0%20apprendre-Gratuit-16a34a?style=for-the-badge" alt="Commencer à apprendre"></a></p>
 
@@ -101,7 +101,29 @@ Commencez par Cloudflare Workers, puis progressez grâce à des travaux pratique
   Acheminez et contrôlez le trafic Workers AI avec Cloudflare AI Gateway tout en découvrant les limites d’autorisation, les journaux, le cache, les contrôles de trafic et le repli borné entre modèles.<br><br>
   <a href="https://labex.io/fr/courses/cloudflare-ai-gateway-for-beginners"><strong>Commencer le cours →</strong></a>
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/fr/courses/cloudflare-durable-objects-for-beginners"><img src="https://course-cover.labex.io/cloudflare-durable-objects-for-beginners.png" alt="Cloudflare Durable Objects for Beginners" width="100%"></a><br><br>
+  <strong>10. <a href="https://labex.io/fr/courses/cloudflare-durable-objects-for-beginners">Cloudflare Durable Objects for Beginners</a></strong><br>
+  <sub>Débutant · 0 labs pratiques</sub><br><br>
+  <br><br>
+  <a href="https://labex.io/fr/courses/cloudflare-durable-objects-for-beginners"><strong>Commencer le cours →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/fr/courses/cloudflare-agents-sdk-for-beginners"><img src="https://course-cover.labex.io/cloudflare-agents-sdk-for-beginners.png" alt="Cloudflare Agents SDK for Beginners" width="100%"></a><br><br>
+  <strong>11. <a href="https://labex.io/fr/courses/cloudflare-agents-sdk-for-beginners">Cloudflare Agents SDK for Beginners</a></strong><br>
+  <sub>Débutant · 0 labs pratiques</sub><br><br>
+  <br><br>
+  <a href="https://labex.io/fr/courses/cloudflare-agents-sdk-for-beginners"><strong>Commencer le cours →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/fr/courses/project-build-a-rag-ai-agent-with-cloudflare"><img src="https://course-cover.labex.io/project-build-a-rag-ai-agent-with-cloudflare.png" alt="Build a RAG AI Agent with Cloudflare" width="100%"></a><br><br>
+  <strong>12. <a href="https://labex.io/fr/courses/project-build-a-rag-ai-agent-with-cloudflare">Build a RAG AI Agent with Cloudflare</a></strong><br>
+  <sub>Débutant · 0 labs pratiques</sub><br><br>
+  <br><br>
+  <a href="https://labex.io/fr/courses/project-build-a-rag-ai-agent-with-cloudflare"><strong>Commencer le cours →</strong></a>
+</td>
 </tr>
 </table>
 

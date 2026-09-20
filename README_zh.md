@@ -8,7 +8,7 @@
 
 <p align="center"><strong>一条免费、实用、循序渐进的学习路径，用真实动手练习掌握技能。</strong></p>
 
-<p align="center"><img alt="课程: 9" src="https://img.shields.io/badge/%E8%AF%BE%E7%A8%8B-9-2563eb?style=flat-square"> <img alt="项目: 0" src="https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE-0-7c3aed?style=flat-square"> <img alt="技能: 52" src="https://img.shields.io/badge/%E6%8A%80%E8%83%BD-52-0891b2?style=flat-square"></p>
+<p align="center"><img alt="课程: 12" src="https://img.shields.io/badge/%E8%AF%BE%E7%A8%8B-12-2563eb?style=flat-square"> <img alt="项目: 0" src="https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE-0-7c3aed?style=flat-square"> <img alt="技能: 52" src="https://img.shields.io/badge/%E6%8A%80%E8%83%BD-52-0891b2?style=flat-square"></p>
 
 <p align="center"><a href="https://labex.io/zh/learn/cloudflare"><img src="https://img.shields.io/badge/%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0-%E5%85%8D%E8%B4%B9-16a34a?style=for-the-badge" alt="开始学习"></a></p>
 
@@ -101,7 +101,29 @@
   使用 Cloudflare AI Gateway 路由和治理 Workers AI 流量，同时学习授权边界、日志、缓存、流量控制和有边界的模型回退。<br><br>
   <a href="https://labex.io/zh/courses/cloudflare-ai-gateway-for-beginners"><strong>开始课程 →</strong></a>
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/zh/courses/cloudflare-durable-objects-for-beginners"><img src="https://course-cover.labex.io/cloudflare-durable-objects-for-beginners.png" alt="Cloudflare Durable Objects for Beginners" width="100%"></a><br><br>
+  <strong>10. <a href="https://labex.io/zh/courses/cloudflare-durable-objects-for-beginners">Cloudflare Durable Objects for Beginners</a></strong><br>
+  <sub>初级 · 0 个动手实验</sub><br><br>
+  <br><br>
+  <a href="https://labex.io/zh/courses/cloudflare-durable-objects-for-beginners"><strong>开始课程 →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/zh/courses/cloudflare-agents-sdk-for-beginners"><img src="https://course-cover.labex.io/cloudflare-agents-sdk-for-beginners.png" alt="Cloudflare Agents SDK for Beginners" width="100%"></a><br><br>
+  <strong>11. <a href="https://labex.io/zh/courses/cloudflare-agents-sdk-for-beginners">Cloudflare Agents SDK for Beginners</a></strong><br>
+  <sub>初级 · 0 个动手实验</sub><br><br>
+  <br><br>
+  <a href="https://labex.io/zh/courses/cloudflare-agents-sdk-for-beginners"><strong>开始课程 →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/zh/courses/project-build-a-rag-ai-agent-with-cloudflare"><img src="https://course-cover.labex.io/project-build-a-rag-ai-agent-with-cloudflare.png" alt="Build a RAG AI Agent with Cloudflare" width="100%"></a><br><br>
+  <strong>12. <a href="https://labex.io/zh/courses/project-build-a-rag-ai-agent-with-cloudflare">Build a RAG AI Agent with Cloudflare</a></strong><br>
+  <sub>初级 · 0 个动手实验</sub><br><br>
+  <br><br>
+  <a href="https://labex.io/zh/courses/project-build-a-rag-ai-agent-with-cloudflare"><strong>开始课程 →</strong></a>
+</td>
 </tr>
 </table>
 

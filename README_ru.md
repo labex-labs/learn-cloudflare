@@ -8,7 +8,7 @@
 
 <p align="center"><strong>Бесплатный практический учебный маршрут с пошаговым освоением навыков.</strong></p>
 
-<p align="center"><img alt="Курсы: 9" src="https://img.shields.io/badge/%D0%9A%D1%83%D1%80%D1%81%D1%8B-9-2563eb?style=flat-square"> <img alt="Проекты: 0" src="https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B-0-7c3aed?style=flat-square"> <img alt="Навыки: 52" src="https://img.shields.io/badge/%D0%9D%D0%B0%D0%B2%D1%8B%D0%BA%D0%B8-52-0891b2?style=flat-square"></p>
+<p align="center"><img alt="Курсы: 12" src="https://img.shields.io/badge/%D0%9A%D1%83%D1%80%D1%81%D1%8B-12-2563eb?style=flat-square"> <img alt="Проекты: 0" src="https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B-0-7c3aed?style=flat-square"> <img alt="Навыки: 52" src="https://img.shields.io/badge/%D0%9D%D0%B0%D0%B2%D1%8B%D0%BA%D0%B8-52-0891b2?style=flat-square"></p>
 
 <p align="center"><a href="https://labex.io/ru/learn/cloudflare"><img src="https://img.shields.io/badge/%D0%9D%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE-16a34a?style=for-the-badge" alt="Начать обучение"></a></p>
 
@@ -101,7 +101,29 @@
   Маршрутизируйте и контролируйте трафик Workers AI через Cloudflare AI Gateway, изучая границы авторизации, журналы, кеширование, управление трафиком и ограниченный резервный выбор модели.<br><br>
   <a href="https://labex.io/ru/courses/cloudflare-ai-gateway-for-beginners"><strong>Начать курс →</strong></a>
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ru/courses/cloudflare-durable-objects-for-beginners"><img src="https://course-cover.labex.io/cloudflare-durable-objects-for-beginners.png" alt="Cloudflare Durable Objects for Beginners" width="100%"></a><br><br>
+  <strong>10. <a href="https://labex.io/ru/courses/cloudflare-durable-objects-for-beginners">Cloudflare Durable Objects for Beginners</a></strong><br>
+  <sub>Начинающий · Практических лабораторий: 0</sub><br><br>
+  <br><br>
+  <a href="https://labex.io/ru/courses/cloudflare-durable-objects-for-beginners"><strong>Начать курс →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ru/courses/cloudflare-agents-sdk-for-beginners"><img src="https://course-cover.labex.io/cloudflare-agents-sdk-for-beginners.png" alt="Cloudflare Agents SDK for Beginners" width="100%"></a><br><br>
+  <strong>11. <a href="https://labex.io/ru/courses/cloudflare-agents-sdk-for-beginners">Cloudflare Agents SDK for Beginners</a></strong><br>
+  <sub>Начинающий · Практических лабораторий: 0</sub><br><br>
+  <br><br>
+  <a href="https://labex.io/ru/courses/cloudflare-agents-sdk-for-beginners"><strong>Начать курс →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ru/courses/project-build-a-rag-ai-agent-with-cloudflare"><img src="https://course-cover.labex.io/project-build-a-rag-ai-agent-with-cloudflare.png" alt="Build a RAG AI Agent with Cloudflare" width="100%"></a><br><br>
+  <strong>12. <a href="https://labex.io/ru/courses/project-build-a-rag-ai-agent-with-cloudflare">Build a RAG AI Agent with Cloudflare</a></strong><br>
+  <sub>Начинающий · Практических лабораторий: 0</sub><br><br>
+  <br><br>
+  <a href="https://labex.io/ru/courses/project-build-a-rag-ai-agent-with-cloudflare"><strong>Начать курс →</strong></a>
+</td>
 </tr>
 </table>
 
