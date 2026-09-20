@@ -102,26 +102,26 @@ Cloudflare Workers から始め、段階的な実習ラボを通じて KV、D1�
   <a href="https://labex.io/ja/courses/cloudflare-ai-gateway-for-beginners"><strong>コースを始める →</strong></a>
 </td>
 <td width="50%" valign="top">
-  <a href="https://labex.io/ja/courses/cloudflare-durable-objects-for-beginners"><img src="https://course-cover.labex.io/cloudflare-durable-objects-for-beginners.png" alt="Cloudflare Durable Objects for Beginners" width="100%"></a><br><br>
-  <strong>10. <a href="https://labex.io/ja/courses/cloudflare-durable-objects-for-beginners">Cloudflare Durable Objects for Beginners</a></strong><br>
-  <sub>初級 · 0 件の実践ラボ</sub><br><br>
-  <br><br>
+  <a href="https://labex.io/ja/courses/cloudflare-durable-objects-for-beginners"><img src="https://course-cover.labex.io/cloudflare-durable-objects-for-beginners.png?lang=ja" alt="初心者向け Cloudflare Durable Objects" width="100%"></a><br><br>
+  <strong>10. <a href="https://labex.io/ja/courses/cloudflare-durable-objects-for-beginners">初心者向け Cloudflare Durable Objects</a></strong><br>
+  <sub>初級 · 8 件の実践ラボ</sub><br><br>
+  Cloudflare Durable Objects を使用して、安定した識別子と SQLite 永続化からアラーム、同時実行、リアルタイム WebSocket まで、協調型のステートフルアプリケーションを構築します。<br><br>
   <a href="https://labex.io/ja/courses/cloudflare-durable-objects-for-beginners"><strong>コースを始める →</strong></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://labex.io/ja/courses/cloudflare-agents-sdk-for-beginners"><img src="https://course-cover.labex.io/cloudflare-agents-sdk-for-beginners.png" alt="Cloudflare Agents SDK for Beginners" width="100%"></a><br><br>
-  <strong>11. <a href="https://labex.io/ja/courses/cloudflare-agents-sdk-for-beginners">Cloudflare Agents SDK for Beginners</a></strong><br>
-  <sub>初級 · 0 件の実践ラボ</sub><br><br>
-  <br><br>
+  <a href="https://labex.io/ja/courses/cloudflare-agents-sdk-for-beginners"><img src="https://course-cover.labex.io/cloudflare-agents-sdk-for-beginners.png?lang=ja" alt="初心者向け Cloudflare Agents SDK" width="100%"></a><br><br>
+  <strong>11. <a href="https://labex.io/ja/courses/cloudflare-agents-sdk-for-beginners">初心者向け Cloudflare Agents SDK</a></strong><br>
+  <sub>初級 · 9 件の実践ラボ</sub><br><br>
+  名前付きセッション、同期クライアント、永続的な会話、スケジュール実行、検証済みツール、承認フロー、MCP 統合、実践的な診断を通じて、状態を保持する Cloudflare Agents の構築と運用を学びます。<br><br>
   <a href="https://labex.io/ja/courses/cloudflare-agents-sdk-for-beginners"><strong>コースを始める →</strong></a>
 </td>
 <td width="50%" valign="top">
-  <a href="https://labex.io/ja/courses/project-build-a-rag-ai-agent-with-cloudflare"><img src="https://course-cover.labex.io/project-build-a-rag-ai-agent-with-cloudflare.png" alt="Build a RAG AI Agent with Cloudflare" width="100%"></a><br><br>
-  <strong>12. <a href="https://labex.io/ja/courses/project-build-a-rag-ai-agent-with-cloudflare">Build a RAG AI Agent with Cloudflare</a></strong><br>
-  <sub>初級 · 0 件の実践ラボ</sub><br><br>
-  <br><br>
+  <a href="https://labex.io/ja/courses/project-build-a-rag-ai-agent-with-cloudflare"><img src="https://course-cover.labex.io/project-build-a-rag-ai-agent-with-cloudflare.png?lang=ja" alt="Cloudflare で RAG AI エージェントを構築する" width="100%"></a><br><br>
+  <strong>12. <a href="https://labex.io/ja/courses/project-build-a-rag-ai-agent-with-cloudflare">Cloudflare で RAG AI エージェントを構築する</a></strong><br>
+  <sub>初級 · 3 件の実践ラボ</sub><br><br>
+  Cloudflare Agents、Workers AI、Vectorize、AI Gateway を使い、3 つの独立したチャレンジで根拠付き AI サポートアシスタントを構築、分離、復旧します。<br><br>
   <a href="https://labex.io/ja/courses/project-build-a-rag-ai-agent-with-cloudflare"><strong>コースを始める →</strong></a>
 </td>
 </tr>

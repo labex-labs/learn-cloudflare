@@ -102,26 +102,26 @@ Comienza con Cloudflare Workers y avanza mediante laboratorios prácticos por KV
   <a href="https://labex.io/es/courses/cloudflare-ai-gateway-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
 <td width="50%" valign="top">
-  <a href="https://labex.io/es/courses/cloudflare-durable-objects-for-beginners"><img src="https://course-cover.labex.io/cloudflare-durable-objects-for-beginners.png" alt="Cloudflare Durable Objects for Beginners" width="100%"></a><br><br>
-  <strong>10. <a href="https://labex.io/es/courses/cloudflare-durable-objects-for-beginners">Cloudflare Durable Objects for Beginners</a></strong><br>
-  <sub>Principiante · 0 laboratorios prácticos</sub><br><br>
-  <br><br>
+  <a href="https://labex.io/es/courses/cloudflare-durable-objects-for-beginners"><img src="https://course-cover.labex.io/cloudflare-durable-objects-for-beginners.png?lang=es" alt="Cloudflare Durable Objects para principiantes" width="100%"></a><br><br>
+  <strong>10. <a href="https://labex.io/es/courses/cloudflare-durable-objects-for-beginners">Cloudflare Durable Objects para principiantes</a></strong><br>
+  <sub>Principiante · 8 laboratorios prácticos</sub><br><br>
+  Crea aplicaciones con estado coordinado mediante Cloudflare Durable Objects, desde identidades estables y persistencia SQLite hasta alarmas, concurrencia y WebSockets en tiempo real.<br><br>
   <a href="https://labex.io/es/courses/cloudflare-durable-objects-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://labex.io/es/courses/cloudflare-agents-sdk-for-beginners"><img src="https://course-cover.labex.io/cloudflare-agents-sdk-for-beginners.png" alt="Cloudflare Agents SDK for Beginners" width="100%"></a><br><br>
-  <strong>11. <a href="https://labex.io/es/courses/cloudflare-agents-sdk-for-beginners">Cloudflare Agents SDK for Beginners</a></strong><br>
-  <sub>Principiante · 0 laboratorios prácticos</sub><br><br>
-  <br><br>
+  <a href="https://labex.io/es/courses/cloudflare-agents-sdk-for-beginners"><img src="https://course-cover.labex.io/cloudflare-agents-sdk-for-beginners.png?lang=es" alt="SDK de Cloudflare Agents para principiantes" width="100%"></a><br><br>
+  <strong>11. <a href="https://labex.io/es/courses/cloudflare-agents-sdk-for-beginners">SDK de Cloudflare Agents para principiantes</a></strong><br>
+  <sub>Principiante · 9 laboratorios prácticos</sub><br><br>
+  Crea y opera agentes con estado de Cloudflare mediante sesiones con nombre, clientes sincronizados, conversaciones persistentes, tareas programadas, herramientas validadas, límites de aprobación, integración con MCP y…<br><br>
   <a href="https://labex.io/es/courses/cloudflare-agents-sdk-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
 <td width="50%" valign="top">
-  <a href="https://labex.io/es/courses/project-build-a-rag-ai-agent-with-cloudflare"><img src="https://course-cover.labex.io/project-build-a-rag-ai-agent-with-cloudflare.png" alt="Build a RAG AI Agent with Cloudflare" width="100%"></a><br><br>
-  <strong>12. <a href="https://labex.io/es/courses/project-build-a-rag-ai-agent-with-cloudflare">Build a RAG AI Agent with Cloudflare</a></strong><br>
-  <sub>Principiante · 0 laboratorios prácticos</sub><br><br>
-  <br><br>
+  <a href="https://labex.io/es/courses/project-build-a-rag-ai-agent-with-cloudflare"><img src="https://course-cover.labex.io/project-build-a-rag-ai-agent-with-cloudflare.png?lang=es" alt="Crear un agente de IA RAG con Cloudflare" width="100%"></a><br><br>
+  <strong>12. <a href="https://labex.io/es/courses/project-build-a-rag-ai-agent-with-cloudflare">Crear un agente de IA RAG con Cloudflare</a></strong><br>
+  <sub>Principiante · 3 laboratorios prácticos</sub><br><br>
+  Crea, aísla y recupera un asistente de soporte con IA fundamentado en tres desafíos independientes con Cloudflare Agents, Workers AI, Vectorize y AI Gateway.<br><br>
   <a href="https://labex.io/es/courses/project-build-a-rag-ai-agent-with-cloudflare"><strong>Iniciar curso →</strong></a>
 </td>
 </tr>

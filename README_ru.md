@@ -102,26 +102,26 @@
   <a href="https://labex.io/ru/courses/cloudflare-ai-gateway-for-beginners"><strong>Начать курс →</strong></a>
 </td>
 <td width="50%" valign="top">
-  <a href="https://labex.io/ru/courses/cloudflare-durable-objects-for-beginners"><img src="https://course-cover.labex.io/cloudflare-durable-objects-for-beginners.png" alt="Cloudflare Durable Objects for Beginners" width="100%"></a><br><br>
-  <strong>10. <a href="https://labex.io/ru/courses/cloudflare-durable-objects-for-beginners">Cloudflare Durable Objects for Beginners</a></strong><br>
-  <sub>Начинающий · Практических лабораторий: 0</sub><br><br>
-  <br><br>
+  <a href="https://labex.io/ru/courses/cloudflare-durable-objects-for-beginners"><img src="https://course-cover.labex.io/cloudflare-durable-objects-for-beginners.png?lang=ru" alt="Cloudflare Durable Objects для начинающих" width="100%"></a><br><br>
+  <strong>10. <a href="https://labex.io/ru/courses/cloudflare-durable-objects-for-beginners">Cloudflare Durable Objects для начинающих</a></strong><br>
+  <sub>Начинающий · Практических лабораторий: 8</sub><br><br>
+  Создавайте координируемые приложения с состоянием на Cloudflare Durable Objects: от стабильной идентичности и хранения SQLite до сигналов, параллельности и WebSocket в реальном времени.<br><br>
   <a href="https://labex.io/ru/courses/cloudflare-durable-objects-for-beginners"><strong>Начать курс →</strong></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://labex.io/ru/courses/cloudflare-agents-sdk-for-beginners"><img src="https://course-cover.labex.io/cloudflare-agents-sdk-for-beginners.png" alt="Cloudflare Agents SDK for Beginners" width="100%"></a><br><br>
-  <strong>11. <a href="https://labex.io/ru/courses/cloudflare-agents-sdk-for-beginners">Cloudflare Agents SDK for Beginners</a></strong><br>
-  <sub>Начинающий · Практических лабораторий: 0</sub><br><br>
-  <br><br>
+  <a href="https://labex.io/ru/courses/cloudflare-agents-sdk-for-beginners"><img src="https://course-cover.labex.io/cloudflare-agents-sdk-for-beginners.png?lang=ru" alt="Cloudflare Agents SDK для начинающих" width="100%"></a><br><br>
+  <strong>11. <a href="https://labex.io/ru/courses/cloudflare-agents-sdk-for-beginners">Cloudflare Agents SDK для начинающих</a></strong><br>
+  <sub>Начинающий · Практических лабораторий: 9</sub><br><br>
+  Создавайте и эксплуатируйте сохраняющих состояние агентов Cloudflare с помощью именованных сессий, синхронизированных клиентов, постоянных диалогов, планируемых задач, проверенных инструментов, процедур согласования…<br><br>
   <a href="https://labex.io/ru/courses/cloudflare-agents-sdk-for-beginners"><strong>Начать курс →</strong></a>
 </td>
 <td width="50%" valign="top">
-  <a href="https://labex.io/ru/courses/project-build-a-rag-ai-agent-with-cloudflare"><img src="https://course-cover.labex.io/project-build-a-rag-ai-agent-with-cloudflare.png" alt="Build a RAG AI Agent with Cloudflare" width="100%"></a><br><br>
-  <strong>12. <a href="https://labex.io/ru/courses/project-build-a-rag-ai-agent-with-cloudflare">Build a RAG AI Agent with Cloudflare</a></strong><br>
-  <sub>Начинающий · Практических лабораторий: 0</sub><br><br>
-  <br><br>
+  <a href="https://labex.io/ru/courses/project-build-a-rag-ai-agent-with-cloudflare"><img src="https://course-cover.labex.io/project-build-a-rag-ai-agent-with-cloudflare.png?lang=ru" alt="Создание RAG-агента ИИ с помощью Cloudflare" width="100%"></a><br><br>
+  <strong>12. <a href="https://labex.io/ru/courses/project-build-a-rag-ai-agent-with-cloudflare">Создание RAG-агента ИИ с помощью Cloudflare</a></strong><br>
+  <sub>Начинающий · Практических лабораторий: 3</sub><br><br>
+  Создайте, изолируйте и восстановите обоснованного ИИ-помощника поддержки в трёх независимых испытаниях с Cloudflare Agents, Workers AI, Vectorize и AI Gateway.<br><br>
   <a href="https://labex.io/ru/courses/project-build-a-rag-ai-agent-with-cloudflare"><strong>Начать курс →</strong></a>
 </td>
 </tr>

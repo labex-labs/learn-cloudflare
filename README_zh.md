@@ -102,26 +102,26 @@
   <a href="https://labex.io/zh/courses/cloudflare-ai-gateway-for-beginners"><strong>开始课程 →</strong></a>
 </td>
 <td width="50%" valign="top">
-  <a href="https://labex.io/zh/courses/cloudflare-durable-objects-for-beginners"><img src="https://course-cover.labex.io/cloudflare-durable-objects-for-beginners.png" alt="Cloudflare Durable Objects for Beginners" width="100%"></a><br><br>
-  <strong>10. <a href="https://labex.io/zh/courses/cloudflare-durable-objects-for-beginners">Cloudflare Durable Objects for Beginners</a></strong><br>
-  <sub>初级 · 0 个动手实验</sub><br><br>
-  <br><br>
+  <a href="https://labex.io/zh/courses/cloudflare-durable-objects-for-beginners"><img src="https://course-cover.labex.io/cloudflare-durable-objects-for-beginners.png?lang=zh" alt="Cloudflare Durable Objects 入门" width="100%"></a><br><br>
+  <strong>10. <a href="https://labex.io/zh/courses/cloudflare-durable-objects-for-beginners">Cloudflare Durable Objects 入门</a></strong><br>
+  <sub>初级 · 8 个动手实验</sub><br><br>
+  使用 Cloudflare Durable Objects 构建协调式有状态应用，涵盖稳定身份、SQLite 持久化、闹钟、并发和实时 WebSocket。<br><br>
   <a href="https://labex.io/zh/courses/cloudflare-durable-objects-for-beginners"><strong>开始课程 →</strong></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://labex.io/zh/courses/cloudflare-agents-sdk-for-beginners"><img src="https://course-cover.labex.io/cloudflare-agents-sdk-for-beginners.png" alt="Cloudflare Agents SDK for Beginners" width="100%"></a><br><br>
-  <strong>11. <a href="https://labex.io/zh/courses/cloudflare-agents-sdk-for-beginners">Cloudflare Agents SDK for Beginners</a></strong><br>
-  <sub>初级 · 0 个动手实验</sub><br><br>
-  <br><br>
+  <a href="https://labex.io/zh/courses/cloudflare-agents-sdk-for-beginners"><img src="https://course-cover.labex.io/cloudflare-agents-sdk-for-beginners.png?lang=zh" alt="面向初学者的 Cloudflare Agents SDK" width="100%"></a><br><br>
+  <strong>11. <a href="https://labex.io/zh/courses/cloudflare-agents-sdk-for-beginners">面向初学者的 Cloudflare Agents SDK</a></strong><br>
+  <sub>初级 · 9 个动手实验</sub><br><br>
+  通过命名会话、同步客户端、持久化对话、计划任务、经过验证的工具、审批边界、MCP 集成和实用诊断，构建并运行有状态的 Cloudflare Agents。<br><br>
   <a href="https://labex.io/zh/courses/cloudflare-agents-sdk-for-beginners"><strong>开始课程 →</strong></a>
 </td>
 <td width="50%" valign="top">
-  <a href="https://labex.io/zh/courses/project-build-a-rag-ai-agent-with-cloudflare"><img src="https://course-cover.labex.io/project-build-a-rag-ai-agent-with-cloudflare.png" alt="Build a RAG AI Agent with Cloudflare" width="100%"></a><br><br>
-  <strong>12. <a href="https://labex.io/zh/courses/project-build-a-rag-ai-agent-with-cloudflare">Build a RAG AI Agent with Cloudflare</a></strong><br>
-  <sub>初级 · 0 个动手实验</sub><br><br>
-  <br><br>
+  <a href="https://labex.io/zh/courses/project-build-a-rag-ai-agent-with-cloudflare"><img src="https://course-cover.labex.io/project-build-a-rag-ai-agent-with-cloudflare.png?lang=zh" alt="使用 Cloudflare 构建 RAG AI 智能体" width="100%"></a><br><br>
+  <strong>12. <a href="https://labex.io/zh/courses/project-build-a-rag-ai-agent-with-cloudflare">使用 Cloudflare 构建 RAG AI 智能体</a></strong><br>
+  <sub>初级 · 3 个动手实验</sub><br><br>
+  通过三个独立挑战，使用 Cloudflare Agents、Workers AI、Vectorize 和 AI Gateway 构建、隔离并恢复有依据的 AI 支持助手。<br><br>
   <a href="https://labex.io/zh/courses/project-build-a-rag-ai-agent-with-cloudflare"><strong>开始课程 →</strong></a>
 </td>
 </tr>
